@@ -1,5 +1,4 @@
-# hello-world
-Just test repository
-这是我的第一个github测试
+#Hello World
+只是用来测试github
   
  
